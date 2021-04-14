@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/raw\/TileA4.png",
+ "imageheight":480,
+ "imagewidth":512,
+ "margin":0,
+ "name":"TileA4",
+ "spacing":0,
+ "tilecount":960,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}

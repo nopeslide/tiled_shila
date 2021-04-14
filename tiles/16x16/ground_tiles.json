@@ -1,0 +1,14 @@
+{ "columns":42,
+ "image":"..\/raw\/ground_tiles.png",
+ "imageheight":701,
+ "imagewidth":672,
+ "margin":0,
+ "name":"ground_tiles",
+ "spacing":0,
+ "tilecount":1806,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}
