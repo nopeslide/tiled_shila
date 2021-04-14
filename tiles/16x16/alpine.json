@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/world-tiles\/structures\/alpine.png",
+ "imageheight":224,
+ "imagewidth":512,
+ "margin":0,
+ "name":"alpine",
+ "spacing":0,
+ "tilecount":448,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}

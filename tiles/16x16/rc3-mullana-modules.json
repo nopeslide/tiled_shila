@@ -1,0 +1,14 @@
+{ "columns":64,
+ "image":"..\/world-tiles\/structures\/rc3-mullana-modules.png",
+ "imageheight":2048,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"rc3-mullana-modules",
+ "spacing":0,
+ "tilecount":8192,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}
