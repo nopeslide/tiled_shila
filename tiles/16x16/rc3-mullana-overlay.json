@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/world-tiles\/structures\/rc3-mullana-overlay.png",
+ "imageheight":1024,
+ "imagewidth":512,
+ "margin":0,
+ "name":"rc3-mullana-overlay",
+ "spacing":0,
+ "tilecount":2048,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}

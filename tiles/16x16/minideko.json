@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"..\/world-tiles\/deco\/minideko.png",
+ "imageheight":416,
+ "imagewidth":224,
+ "margin":0,
+ "name":"minideko",
+ "spacing":0,
+ "tilecount":364,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}

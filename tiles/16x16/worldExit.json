@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"..\/world-tiles\/structures\/worldExit.png",
+ "imageheight":64,
+ "imagewidth":64,
+ "margin":0,
+ "name":"worldExit",
+ "spacing":0,
+ "tilecount":16,
+ "tiledversion":"1.5.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.5
+}
